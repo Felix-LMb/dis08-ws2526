@@ -139,3 +139,19 @@ Preview:
 
 ## **Images:**
 
+If the image is in the same repository as the Markdown file, you can use a relative path.
+
+        ![alt text](imageURL)
+
+Preview:
+
+![alt text](imageURL)
+
+
+## **Image + Link Combination:**
+
+        [![alt text](imageURL)](linkURL)
+        [![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+Preview:
+
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
